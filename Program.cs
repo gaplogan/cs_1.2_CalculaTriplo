@@ -1,21 +1,21 @@
-Ôªøusing System;
+using System;
 
 namespace cs_1._2_CalculaTriplo
 {
     class Program
     {
-        static void Main(string[] args) //comando de in√≠cio do programa
+        static void Main(string[] args) //comando de inÌcio do programa
         {
-            double Num, Triplo; //declara√ß√£o das vari√°veis do programa            
-            Console.Clear(); //comando "LimpaTela" limpa a tela do monitor de v√≠deo
+            double Num, Triplo; //declaraÁ„o das vari·veis do programa            
+            Console.Clear(); //comando "LimpaTela" limpa a tela do monitor de vÌdeo
             //{Entrada dos dados}
-            Console.WriteLine("Digite um n√∫mero: "); //mensagem para que o usu√°rio saiba o que deve fazer
-            Num = double.Parse(Console.ReadLine()); //leitura do n√∫mero para a mem√≥ria
+            Console.WriteLine("Digite um n˙mero: "); //mensagem para que o usu·rio saiba o que deve fazer
+            Num = double.Parse(Console.ReadLine()); //leitura do n˙mero para a memÛria
             //{Processamento}
-            Triplo = Num * 3; //calcula o triplo e armazena o resultado na vari√°vel Triplo
-            // {Sa√≠da da informa√ß√£o}
-            Console.WriteLine(""); //apenas salta uma linha na tela do monitor de v√≠deo
-            Console.WriteLine("O Triplo de " + Num + " √© " + Triplo); //exibe o resultado            
+            Triplo = Num * 3; //calcula o triplo e armazena o resultado na vari·vel Triplo
+            // {SaÌda da informaÁ„o}
+            Console.WriteLine(""); //apenas salta uma linha na tela do monitor de vÌdeo
+            Console.WriteLine("O Triplo de " + Num + " È " + Triplo); //exibe o resultado            
         }//comando de fim do programa
     }
 }
