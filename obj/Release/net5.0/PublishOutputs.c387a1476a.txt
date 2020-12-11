@@ -1,0 +1,5 @@
+E:\GitHub\cs_1.2_CalculaTriplo\bin\Release\net5.0\publish\cs_1.2_CalculaTriplo.exe
+E:\GitHub\cs_1.2_CalculaTriplo\bin\Release\net5.0\publish\cs_1.2_CalculaTriplo.dll
+E:\GitHub\cs_1.2_CalculaTriplo\bin\Release\net5.0\publish\cs_1.2_CalculaTriplo.deps.json
+E:\GitHub\cs_1.2_CalculaTriplo\bin\Release\net5.0\publish\cs_1.2_CalculaTriplo.runtimeconfig.json
+E:\GitHub\cs_1.2_CalculaTriplo\bin\Release\net5.0\publish\cs_1.2_CalculaTriplo.pdb

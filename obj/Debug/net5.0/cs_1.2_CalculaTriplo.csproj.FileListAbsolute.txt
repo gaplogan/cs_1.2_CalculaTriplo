@@ -1,0 +1,16 @@
+E:\GitHub\cs_1.2_CalculaTriplo\bin\Debug\net5.0\cs_1.2_CalculaTriplo.exe
+E:\GitHub\cs_1.2_CalculaTriplo\bin\Debug\net5.0\cs_1.2_CalculaTriplo.deps.json
+E:\GitHub\cs_1.2_CalculaTriplo\bin\Debug\net5.0\cs_1.2_CalculaTriplo.runtimeconfig.json
+E:\GitHub\cs_1.2_CalculaTriplo\bin\Debug\net5.0\cs_1.2_CalculaTriplo.runtimeconfig.dev.json
+E:\GitHub\cs_1.2_CalculaTriplo\bin\Debug\net5.0\cs_1.2_CalculaTriplo.dll
+E:\GitHub\cs_1.2_CalculaTriplo\bin\Debug\net5.0\ref\cs_1.2_CalculaTriplo.dll
+E:\GitHub\cs_1.2_CalculaTriplo\bin\Debug\net5.0\cs_1.2_CalculaTriplo.pdb
+E:\GitHub\cs_1.2_CalculaTriplo\obj\Debug\net5.0\cs_1.2_CalculaTriplo.csprojAssemblyReference.cache
+E:\GitHub\cs_1.2_CalculaTriplo\obj\Debug\net5.0\cs_1.2_CalculaTriplo.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\cs_1.2_CalculaTriplo\obj\Debug\net5.0\cs_1.2_CalculaTriplo.AssemblyInfoInputs.cache
+E:\GitHub\cs_1.2_CalculaTriplo\obj\Debug\net5.0\cs_1.2_CalculaTriplo.AssemblyInfo.cs
+E:\GitHub\cs_1.2_CalculaTriplo\obj\Debug\net5.0\cs_1.2_CalculaTriplo.csproj.CoreCompileInputs.cache
+E:\GitHub\cs_1.2_CalculaTriplo\obj\Debug\net5.0\cs_1.2_CalculaTriplo.dll
+E:\GitHub\cs_1.2_CalculaTriplo\obj\Debug\net5.0\ref\cs_1.2_CalculaTriplo.dll
+E:\GitHub\cs_1.2_CalculaTriplo\obj\Debug\net5.0\cs_1.2_CalculaTriplo.pdb
+E:\GitHub\cs_1.2_CalculaTriplo\obj\Debug\net5.0\cs_1.2_CalculaTriplo.genruntimeconfig.cache
